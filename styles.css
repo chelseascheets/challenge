@@ -1,0 +1,30 @@
+#header {
+    background-color: blue
+    height: 4em;
+    border: 10px border-style black color;
+    color: white;
+    text-align: content: 
+    padding-top: 2em;;
+}
+
+#footer {
+    background-color: blue
+    height: 4em;
+    border: 10px border-style black color;
+    color: white;
+    text-align: content: 
+    padding-top: 2em;;
+}
+
+.bodycontent h3 {
+    border-top: 10px lightblue solid;
+    border-width: 10 
+}
+.bodyContent {
+    text-align: center
+}
+#headertop{
+    background-color: lightblue;
+    width: 100px;
+    
+}
